@@ -8,3 +8,5 @@ All you need to do is to install the plugin and fill the config file with restri
 Installation instruction is available here: http://wmsipauth.com/download.html
 
 This plugin was originally created by Alex Pokotilo for TotalStream, the CDN division of Vidillion.
+
+This code is distributed under GPLv3 license.
