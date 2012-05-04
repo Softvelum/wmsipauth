@@ -5,4 +5,6 @@ This plugin allows easily restrict access to Windows Media Services by user IP a
 
 All you need to do is to install the plugin and fill the config file with restricted IPs list.
 
+Installation instruction is available here: http://wmsipauth.com/download.html
+
 This code was originally created by Alex Pokotilo.
