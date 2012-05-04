@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wmspanel_geo_plugin", "wmspanel_geo_plugin.csproj", "{93C4F703-E2B3-4F3E-8689-BC4F84333130}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		2003-Debug|Any CPU = 2003-Debug|Any CPU
+		2003-Debug|Mixed Platforms = 2003-Debug|Mixed Platforms
+		2003-Debug|x86 = 2003-Debug|x86
+		2003-Release|Any CPU = 2003-Release|Any CPU
+		2003-Release|Mixed Platforms = 2003-Release|Mixed Platforms
+		2003-Release|x86 = 2003-Release|x86
+		2003-Release-Trial|Any CPU = 2003-Release-Trial|Any CPU
+		2003-Release-Trial|Mixed Platforms = 2003-Release-Trial|Mixed Platforms
+		2003-Release-Trial|x86 = 2003-Release-Trial|x86
+		2008-debug|Any CPU = 2008-debug|Any CPU
+		2008-debug|Mixed Platforms = 2008-debug|Mixed Platforms
+		2008-debug|x86 = 2008-debug|x86
+		2008-release|Any CPU = 2008-release|Any CPU
+		2008-release|Mixed Platforms = 2008-release|Mixed Platforms
+		2008-release|x86 = 2008-release|x86
+		2008-release-trial|Any CPU = 2008-release-trial|Any CPU
+		2008-release-trial|Mixed Platforms = 2008-release-trial|Mixed Platforms
+		2008-release-trial|x86 = 2008-release-trial|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2003-Debug|Any CPU.ActiveCfg = 2003-Debug|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2003-Debug|Any CPU.Build.0 = 2003-Debug|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2003-Debug|Mixed Platforms.ActiveCfg = 2003-Debug|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2003-Debug|Mixed Platforms.Build.0 = 2003-Debug|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2003-Debug|x86.ActiveCfg = 2003-Debug|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2003-Release|Any CPU.ActiveCfg = 2003-Release|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2003-Release|Any CPU.Build.0 = 2003-Release|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2003-Release|Mixed Platforms.ActiveCfg = 2003-Release|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2003-Release|Mixed Platforms.Build.0 = 2003-Release|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2003-Release|x86.ActiveCfg = 2003-Release|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2003-Release-Trial|Any CPU.ActiveCfg = 2003-Release-Trial|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2003-Release-Trial|Any CPU.Build.0 = 2003-Release-Trial|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2003-Release-Trial|Mixed Platforms.ActiveCfg = 2003-Release-Trial|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2003-Release-Trial|Mixed Platforms.Build.0 = 2003-Release-Trial|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2003-Release-Trial|x86.ActiveCfg = 2003-Release-Trial|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2008-debug|Any CPU.ActiveCfg = 2008-debug|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2008-debug|Any CPU.Build.0 = 2008-debug|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2008-debug|Mixed Platforms.ActiveCfg = 2008-debug|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2008-debug|Mixed Platforms.Build.0 = 2008-debug|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2008-debug|x86.ActiveCfg = 2008-debug|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2008-release|Any CPU.ActiveCfg = 2008-release|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2008-release|Any CPU.Build.0 = 2008-release|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2008-release|Mixed Platforms.ActiveCfg = 2008-release|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2008-release|Mixed Platforms.Build.0 = 2008-release|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2008-release|x86.ActiveCfg = 2008-release|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2008-release-trial|Any CPU.ActiveCfg = 2008-release-trial|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2008-release-trial|Any CPU.Build.0 = 2008-release-trial|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2008-release-trial|Mixed Platforms.ActiveCfg = 2008-release-trial|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2008-release-trial|Mixed Platforms.Build.0 = 2008-release-trial|Any CPU
+		{93C4F703-E2B3-4F3E-8689-BC4F84333130}.2008-release-trial|x86.ActiveCfg = 2008-release-trial|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
