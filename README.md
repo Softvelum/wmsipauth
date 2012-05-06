@@ -9,4 +9,4 @@ Installation instruction is available here: http://wmsipauth.com/download.html
 
 This plugin was originally created by Alex Pokotilo for TotalStream, the CDN division of Vidillion.
 
-This code is distributed under GPLv3 license.
+This program is released under GPLv3 license: http://www.gnu.org/licenses/gpl.html
