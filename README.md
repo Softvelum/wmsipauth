@@ -10,3 +10,6 @@ Installation instruction is available here: http://wmsipauth.com/download.html
 This plugin was originally created by Alex Pokotilo for TotalStream, the CDN division of Vidillion.
 
 This program is released under GPLv3 license: http://www.gnu.org/licenses/gpl.html
+
+
+The geo-lock functionality is also available for **Wowza Media Server** and **Nimble Streamer** via WMSPanel cloud control panel: https://wmspanel.com/
